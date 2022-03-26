@@ -19,3 +19,7 @@ LICENSE
 *.toml
 *.rcgu.o
 temp_13207_ThreadId1
+.replit
+.gitpod.yml
+.editorconfig
+.all-contributorsrc
