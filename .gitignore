@@ -9,5 +9,13 @@ exercises/clippy/Cargo.lock
 .vscode
 *.iml
 
+src/
+tests/
+*.md
+LICENSE
+*.txt
+*.ps1
+*.sh
+*.toml
 *.rcgu.o
 temp_13207_ThreadId1
